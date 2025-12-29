@@ -1,0 +1,12 @@
+{
+  "name": "DepotTestTrack",
+  "chunks": [
+    {"name": "Depot", "center": [0,0,0], "radius": 200},
+    {"name": "Track", "center": [0,0,200], "radius": 200}
+  ],
+  "spawn": [0,0,0],
+  "stops": [
+    {"name": "Depot Gate", "position": [0,0,10]},
+    {"name": "Test Stop", "position": [0,0,150]}
+  ]
+}

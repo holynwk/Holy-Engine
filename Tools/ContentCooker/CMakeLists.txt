@@ -1,0 +1,3 @@
+add_executable(ContentCooker ContentCooker.cpp)
+
+target_link_libraries(ContentCooker PRIVATE OpenTransitEngine)
